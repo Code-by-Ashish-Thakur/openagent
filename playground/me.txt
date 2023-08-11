@@ -1,0 +1,3 @@
+My name is Ashish kumar
+Here are my skills : HTML, CSS ,js , next.js ,Nodejs,Reactjs,mongoDB,ExpressJs,Git,Github,Bootstrap.
+My email id is 1ashishchauhan2002@gmail.com.
